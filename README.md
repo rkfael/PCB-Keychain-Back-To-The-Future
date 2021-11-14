@@ -8,7 +8,7 @@ I made this PCB Keychain using the *EasyEDA* software and then ordered it online
 
 You can order the fabrication according to your preferences of color, thickness, PCB material and more.
 
-Download Prodution File: [Gerber](link)
+Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Back-To-The-Future/blob/main/Gerber_BACK_TO_THE_FUTURE%20-%20PCB_KEYCHAIN.zip)
 
 Editable project access: [*EasyEDA*](link)
 
