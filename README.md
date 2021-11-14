@@ -10,7 +10,7 @@ You can order the fabrication according to your preferences of color, thickness,
 
 Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Back-To-The-Future/blob/main/Gerber_BACK_TO_THE_FUTURE%20-%20PCB_KEYCHAIN.zip)
 
-Editable project access: [*EasyEDA*](link)
+Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=e75c4e59d5524df48826913fcb165804)
 
 How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
