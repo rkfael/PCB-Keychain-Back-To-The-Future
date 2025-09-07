@@ -4,15 +4,15 @@
 
 A creative idea for PCB art design.
 
-I made this PCB Keychain using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
+I designed this PCB keychain using EasyEDA software and then ordered it online from [*JLCPCB*](https://jlcpcb.com/?from=RMW)
 
-You can order the fabrication according to your preferences of color, thickness, PCB material and more.
+You can customize the fabrication according to your preferences for color, thickness, PCB material, and more.
 
 Download Prodution File: [Gerber](https://github.com/rkfael/PCB-Keychain-Back-To-The-Future/blob/main/Gerber_BACK_TO_THE_FUTURE%20-%20PCB_KEYCHAIN.zip)
 
 Editable project access: [*EasyEDA*](https://easyeda.com/editor#id=e75c4e59d5524df48826913fcb165804)
 
-How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
+How to make a PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 **Figure 1 - Top Side (EasyEDA)**
 
@@ -30,9 +30,10 @@ How to make PCB Keychain: [Article](https://github.com/rkfael/PCB-Keychain)
 
 ## More about it:
 
-For more pictures and PCB Art ideas check my instagram profile [RKfael - PCB Design](https://www.instagram.com/rkfael_pcb_design/)
+For more pictures and PCB art ideas, check out my Instagram profile [@rkfaelpcb](https://instagram.com/rkfaelpcb)
 
 ## YouTube channel:
 
-Subscribe at my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
+Subscribe to my [YouTube channel](https://www.youtube.com/channel/UCUXV45PUONuPi8HNMYXnK5g)
+
 
